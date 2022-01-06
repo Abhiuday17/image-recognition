@@ -1,0 +1,18 @@
+body{
+    background-color: rgba(0, 255, 76, 0.589);
+}
+#Model{
+    color: blue;
+}
+.name_of_objects,#Object_Name,#Object_Accuracy{
+    color: rgb(2, 51, 6);
+}
+.heading{
+    width : 80%;
+    font-size: 22px;
+}
+#camera{
+    width: 350px ;
+    height: 300px ;
+    border: 1px solid white;
+}
